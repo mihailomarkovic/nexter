@@ -2,60 +2,36 @@
 
 ![Picture of Nexter website on a laptop and phone.](img/readme-img.png)
 
+# Nexter
+
 ## Introduction
 
-Welcome to the Nexter Repository, a project created to master CSS grid layouts and advanced web design techniques. Designed as an example platform for showcasing luxury homes, Nexter demonstrates the flexibility and power of grid-based layouts for creating responsive, visually stunning websites. This project combines clean, semantic HTML with modern CSS and SASS techniques to deliver an engaging and seamless user experience.
-
-This project serves as a milestone in my journey as a developer, showcasing my ability to use CSS grids effectively to create functional and aesthetically pleasing web designs.
+Nexter is a modern, one-page **webpage** designed for a firm that sells exclusive houses. This project focuses on a clean, visually appealing, and highly responsive layout built using a **desktop-first** approach. The primary goal of this project was to enhance my skills in **CSS Grid** and explore its powerful capabilities in creating complex layouts with minimal reliance on media queries.
 
 ## Project Highlights
 
-- **CSS Grid Layouts:** The foundation of this project is built using CSS grid, highlighting its versatility for creating complex, responsive layouts.
-- **Responsive Design:** Adapted for optimal usability across desktops, tablets, and smartphones.
-- **Modern Aesthetics:** Showcases visually appealing elements that emphasize clarity and professionalism.
+- **Fully responsive desktop-first design** using **CSS Grid**
+- **Minimal use of media queries** for responsiveness
+- **Elegant and structured layout** optimized for showcasing high-end real estate
+- **Improved understanding of advanced CSS Grid properties**
 
 ## What I Learned
 
-This project allowed me to gain hands-on experience in several key areas:
-
-### HTML
-
-- Structuring content logically for readability and SEO.
-- Leveraging semantic elements for accessibility and maintainability.
-
-### CSS & SASS
-
-- Building responsive, grid-based layouts with CSS.
-- Organizing styles using SASS for scalability and maintainability.
-- Implementing smooth transitions and modern design techniques.
-
-### Design Principles
-
-- Applying contemporary design trends, including balanced typography and harmonious color schemes.
-- Crafting user-centric interfaces that prioritize simplicity and engagement.
-
-### Problem-Solving
-
-- Debugging grid alignment and responsiveness issues.
-- Iteratively improving layout and functionality based on feedback.
+Through this project, I gained a deeper understanding of **CSS Grid** and how to use it effectively for building responsive web layouts. The highlight of this project was discovering how **Grid can handle responsiveness naturally**, reducing the need for excessive media queries. This approach allowed for a more **maintainable and scalable** design.
 
 ## Project Features
 
-The Nexter website is a visually engaging and interactive project designed to highlight key elements of modern web design:
-
-- **Grid-Based Layouts:** Utilizes CSS grids to structure content efficiently and responsively.
-- **Dynamic Elements:** Styled with precision to ensure a polished and professional appearance.
-
-Together, these features demonstrate a thoughtful approach to design and development, blending creativity with technical expertise.
+- **Grid-based layout** ensuring flexibility and responsiveness
+- **Elegant typography and modern design** tailored for luxury real estate
+- **Optimized images and assets** for performance and user experience
+- **Clean and structured code** following best practices
 
 ## Technologies Used
 
-- **HTML5:** For clean, semantic markup.
-- **CSS3:** For styling and responsive layouts using grids.
-- **SASS:** For better code organization and maintainability.
+- **HTML5**
+- **CSS3** (Focus on **CSS Grid**)
+- **Sass** for better styling structure and maintainability
 
 ## Closing Thoughts
 
-The Nexter project showcases my growth as a developer, emphasizing mastery of CSS grid layouts and responsive web design. It reflects my commitment to building visually captivating and user-friendly digital experiences.
-
-Thank you for exploring this repository. Please feel free to check out the code and visit the live site. Your feedback is always welcome!
+Nexter was an exciting project that significantly strengthened my understanding of **CSS Grid and responsive design techniques**. By leveraging Grid's capabilities, I was able to create a layout that is both elegant and functional with minimal media queries. Additionally, using **Sass** helped improve my styling workflow, making the code more organized and maintainable. This project has motivated me to explore even more advanced CSS techniques in future web design projects.
