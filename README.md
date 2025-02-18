@@ -2,8 +2,6 @@
 
 ![Picture of Nexter website on a laptop and phone.](img/readme-img.png)
 
-# Nexter
-
 ## Introduction
 
 Nexter is a modern, one-page **webpage** designed for a firm that sells exclusive houses. This project focuses on a clean, visually appealing, and highly responsive layout built using a **desktop-first** approach. The primary goal of this project was to enhance my skills in **CSS Grid** and explore its powerful capabilities in creating complex layouts with minimal reliance on media queries.
